@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JClicProject name="tic2" version="0.1.3">
+ <settings>
+  <title>tic2</title>
+  <revision description="created" date="2/18/21" />
+  <descriptors />
+  <meta_langs>es</meta_langs>
+  <descriptions>
+   <description language="es" />
+  </descriptions>
+  <license type="by-nc-sa" url="https://creativecommons.org/licenses/by-nc-sa/4.0" />
+ </settings>
+ <sequence />
+ <activities />
+ <mediaBag />
+</JClicProject>
+
